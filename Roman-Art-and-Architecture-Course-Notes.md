@@ -1,6 +1,6 @@
 Roman art and architecture 
 
-# Early chronology of Rome
+# Early Chronology of Rome
 
 Earliest roman story starts not with Romans but  Villanuovans and Etruscans, people north of Rome, around 1000 BCE. Note this is around the end of the bronze age (1700) and the beginning of Iron (1000).
 The chronology of this time is divided in Archaic I and II, roughly corresponding to 1000-750 (also named early Iron age) and 700 ~600 .
@@ -8,7 +8,7 @@ The chronology of this time is divided in Archaic I and II, roughly correspondin
 Archaic I:  Unified culture enter italy from the north. Rise of the villanovans in Tuscany. Latins at Latium.
  Archaic II: Villanovans flourish, art develops, geometric influences from greece. Rise of the Etruscans
 
-# Etruscans (1000-600), 
+## Etruscans (1000-600)
 
 The early history of rome, also known as the orientalizing period is punctuated by the construction of the cloaca maxima, one of the earliest drainage and sewer systems in the world, built by etruscans in 600. 
 
@@ -20,7 +20,7 @@ During the orientalization period Etruscans syncretized many of the myths with t
 
 Representative of the period after orientalization are the tombs of Tarquinia build around 530 BCE which show previous influences and depict clearly etruscan rites making use of and advanced understanding of phisiology.
 
-# Latter Etruscans 
+## Latter Etruscans 
 
 Greek art very popular around the time, a prime example being the 570 BCE Tuscany vase called the Francois Vase. It bears the inscriptions "Ergotimos mepoiesen" and "Kleitias megraphsen", meaning "Ergotimos made me" and "Kleitias painted me". It depicts 270 mythological figures. 
 
@@ -49,7 +49,7 @@ The forum romanum is first established during this time and it includes the sacr
 On the same way, the sacra via, and in the forum in general, many other times and leaders would add and change monuments. An example is the Arch of Titus which is a typical anachronism in movies of the early empire as it was constructed later by Domitian in 82 AD.
 
 
-# Types of Temple/Column
+## Types of Temple/Column
 
 The adoption of the three greek “orders” or styles of architecture occurred around 100 BCE and has been continued in their essence to our days.
 
@@ -81,7 +81,7 @@ You can tell a modern building taking the classic style has failed if the corner
 
 
 
-##  Interim - Rough Timeline Review
+###  Interim - Rough Timeline Review
 
 1000 - 600 Archaic
 600 - 500 Etruscan rule:  cloaca maxima
@@ -94,7 +94,7 @@ Hellenistic constant warfare and expansion, north with etruscans, east and south
 
 Typical of the period is the Capitoline Brutus  (4C and 3C) https://i.ytimg.com/vi/h-qUlzA70nY/maxresdefault.jpg , Lucius Junius Brutus, the man who killed the last king and effectively started the roman republic. This identity to the sculpture was assigned in the 16C. First attempt at veristic portraiture.
 
-## Interim - Carthage: A mirage of antiquity
+### Interim - Carthage: A mirage of antiquity
 
 In 149 BC Carthage suffer roman destruction but had a key role before and survives after. 
 Original settlers were Berbers, semi-nomad libyans with a 8000 year lineage (some traditions of theirs in the making of food and basic living still survive in modern day Carthage). Around 700 BCE phoenicians from Lebanon take over, followed by Romans.
@@ -103,7 +103,7 @@ Not just the history but myth of Carthage are mixed with Rome’s: Phoenician Di
 
 Carthage reaches its zenith on the 6C. At this point the main deities are Baal- Hammon (https://upload.wikimedia.org/wikipedia/commons/c/cc/Terracotta_statue_of_Baal-Hammon_on_a_throne_AvL.JPG) and Tanit fertility goddess. Her symbol persists to this day (https://upload.wikimedia.org/wikipedia/commons/5/52/Tophet_Carthage.2.jpg)
 
-### Roman-Punic Wars 246 BC - 146 BC
+## Roman-Punic Wars 246 BC - 146 BC
 
 Not to be confused with the greco-punic wars much earlier over sicily (600-250), the Roman punic wars feature hannibal crossing the alps, and the eventual destruction of carthage. 
 
@@ -142,7 +142,7 @@ Although widely credited for the discovery of archeological troy in Turkey in 18
 
 Typical of these ideals, of the high values and quality of the time is The Ara Pacis, a temple to Pax built between 13 and 9 BC. https://en.wikipedia.org/wiki/Ara_Pacis#/media/File:Ara_Pacis_Rom.jpg
 
-## Interim: Quick timeline of Imperial Rome
+### Interim: Quick timeline of Imperial Rome
 
 Augustus: 31BCE-14CE
 Tiberius: -37 
@@ -162,6 +162,7 @@ As shown in the Porta Maggiore, https://upload.wikimedia.org/wikipedia/commons/8
 ## Nero: Neronian Baroque
 
 Although the two major sources, Tacitus and Suetonius, differ in their focus of the tragedy, one directly blaming Nero, the other concentrating mostly on the effects of the fire, what is certain is the burning of rome in 64 was true and the myth that Nero was playing the lyre and singing while it happened was given credence, if not factually, at least in spirit as he had displayed tremendously bad taste in his own “theater performances” where similar events happen.
+
 ### The Domus Aurea
 
 After the fire of 64 the area on the palatine hill was taken by Nero and the Domus Aurea was constructed. The center of the Domus Aurea was adorned by a 30ft statue of Nero as Helios, known as the Colossus of Nero as it was modeled after the Rhodian sculpture.
@@ -172,14 +173,14 @@ It is also at this time that the fourth style of Pompeyan walls come into being,
 
 Typical of the time is also the house of the dioscuri in Pompeii which shows murals of Achiles at Skyro (crossdressing Achiles enter courts of king and seduces daughter, a popular theme generating no less than 30 operas)
 
-## Interim:  The Four styles of Pompeiian murals
+### Interim:  The Four styles of Pompeiian murals
 
 First Style: 200-80 BC tablatures and blocks of color, flatness
 Second style:  80-20  simulation of marble (marble veneering), Trompe l’oeil of still life
 Third Style: 10-60 Emphasis on ornate architectural illusions
 Fourth Style: 60-79 AD Combination of all predecessors
 
-## The Flavians
+# The Flavians
 
 After the suicide of Nero in 68, the period until July of 69 is known as the year of four emperors. In succession Galba, Vitellius, Otho, and finally Vespatian take the throne. Vespatian is the first of the Three Flavians. 
 
@@ -187,11 +188,11 @@ Vespatian: 69-79
 Titus (son of Vespatian): 79-81
 Domitian (also son of Vespatian): 81-96 
 
-### Vespatian & Titus - The amphiteater, Colliseum 
+## Vespatian & Titus - The amphiteater, Colliseum 
 
 Vespatian takes the huge lake of Domus Aurea and creates the Flavian Amphiteater. It is also during this time that the colosseum is built (finished actually under Titus). It was an arena but also could hold Naumachia (sea battle recreations).
 
-### Domitian: Arch of Titus 
+## Domitian: Arch of Titus 
 
 The most important architectural piece from the time was the Arch of titus raised by Domitian to commemorate his brother also celebrate domination of the jews.
 
@@ -269,7 +270,7 @@ What can be said about the architecture and art in this period is basically that
 
 3C Sculpture features a sort of Neo-verism as shown in the bust of caracalla. 
 
-# End of Rapid Succesion and Diocletian Rule
+## End of Rapid Succesion and Diocletian Rule
 
 With the ascencion of Diocletian (286-305), a period of relative peace and stability ensues. He attempts at setting the foundations of a stable line of succesion by the introduction of the tetrarchy, where two older emperors, two Augusti would train simultaneously their successors, two Caesari. Diocleatian prepares Galerius, Maximian prepares Constantus.
 
@@ -287,7 +288,7 @@ With the movement of the capital to Constantinople (modern day Istanbul, previou
 
 After this Rome suffers greatly because of Malaria epidemics which decimate the population. By hte end of the 6C population would fall from 1M to about 100K people.
 
-# Fall of Rome
+## Fall of Rome
 
 The date of the fall of rome is officialy cited as 476 when Odoacer deposed the emperor Romulus. The last major addition to the architecture ofthe western empire was the monument of Phocas around 608.
 
