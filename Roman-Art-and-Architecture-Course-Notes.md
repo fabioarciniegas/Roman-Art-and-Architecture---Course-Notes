@@ -149,15 +149,145 @@ Tiberius: -37
 Claudius: -54
 Nero: -68
 
-## Tiberius and Caligula
+## Tiberius and Caligula: Mythological grandeur
 
 Tiberius art in Capri and Sperlonga is highly theatrical and mythological including homer scenes, notably the surviving sculptures of odysseus ship attacked by Scylla: https://en.wikipedia.org/wiki/Sperlonga_sculptures#/media/File:Gruppo_di_scilla,_sperlonga.jpg
  
+Arrezo Red Pottery also popular around the time of Caligula, which in general was a continuation of the Tiberian style.
+
+## Claudius : Rustication
+
+As shown in the Porta Maggiore, https://upload.wikimedia.org/wikipedia/commons/8/8c/Porta_Maggiore_Roma.JPG, the style during Claudius goes a curious transformation into deliberately simpler more brute finishes called Rustication.
+
+## Nero: Neronian Baroque
+
+Although the two major sources, Tacitus and Suetonius, differ in their focus of the tragedy, one directly blaming Nero, the other concentrating mostly on the effects of the fire, what is certain is the burning of rome in 64 was true and the myth that Nero was playing the lyre and singing while it happened was given credence, if not factually, at least in spirit as he had displayed tremendously bad taste in his own “theater performances” where similar events happen.
+### The Domus Aurea
+
+After the fire of 64 the area on the palatine hill was taken by Nero and the Domus Aurea was constructed. The center of the Domus Aurea was adorned by a 30ft statue of Nero as Helios, known as the Colossus of Nero as it was modeled after the Rhodian sculpture.
+
+The neronian baroque was full of complications and games of waterfalls and concrete.
+
+It is also at this time that the fourth style of Pompeyan walls come into being, characterized by the baroque mixture of square tabulae with the trompe l’oeil.
+
+Typical of the time is also the house of the dioscuri in Pompeii which shows murals of Achiles at Skyro (crossdressing Achiles enter courts of king and seduces daughter, a popular theme generating no less than 30 operas)
+
+## Interim:  The Four styles of Pompeiian murals
+
+First Style: 200-80 BC tablatures and blocks of color, flatness
+Second style:  80-20  simulation of marble (marble veneering), Trompe l’oeil of still life
+Third Style: 10-60 Emphasis on ornate architectural illusions
+Fourth Style: 60-79 AD Combination of all predecessors
+
+## The Flavians
+
+After the suicide of Nero in 68, the period until July of 69 is known as the year of four emperors. In succession Galba, Vitellius, Otho, and finally Vespatian take the throne. Vespatian is the first of the Three Flavians. 
+
+Vespatian: 69-79
+Titus (son of Vespatian): 79-81
+Domitian (also son of Vespatian): 81-96 
+
+### Vespatian & Titus - The amphiteater, Colliseum 
+
+Vespatian takes the huge lake of Domus Aurea and creates the Flavian Amphiteater. It is also during this time that the colosseum is built (finished actually under Titus). It was an arena but also could hold Naumachia (sea battle recreations).
+
+### Domitian: Arch of Titus 
+
+The most important architectural piece from the time was the Arch of titus raised by Domitian to commemorate his brother also celebrate domination of the jews.
+
+The arch of titus include the very nice catenaries, rosting to very dramatic and scenes including the apotheosis of Titus.
+
+Finally Domitian is assasinated.
+
+# Rome at it's Zenith: "The five good emperors"
+
+Marcus Cocceius Nerva has a short term from 96-98. Trajan (Marcus Ulpius Trajanus) a much larger one from 98-117.
+
+## Trajan
+
+Trajan was an effective administrator and a master of propaganda. He consolidated control of center europe and was succesful in the wars with Decebalus (101-102). This period which would be known as high empire is epitomized in architecture by the  Column of Trajan, an impressive monument of 625 reliefs. Also significant the trajan market and the apollodorus of damascus.
+
+https://en.wikipedia.org/wiki/Trajan%27s_Column#/media/File:Trajan_column_(Rome)_September_2015-1.jpg
+
+## Hadrian
+
+Hadrian ruled from 117-138.  Without a doubt the most memorable architecture of his reign is the Pantheon, temple to all gods, which uniquely combines classical front columns with a dome back.
+
+An interesting aspect of the period is sculpture, which includes facial hair for hadrian and contrasts the unruly hair with polished face. A certain tendency towards dematerialization of features.
+
+http://vwhl.soic.indiana.edu/villa/assets/_art/pantanello/sculpture/Hadrian-BM.jpg
+
+### Interim: Summary of the five good emperors
+
+  - Nerva: 96-98, Mosaics
+  - Trajan: 98-117, Column of Trajan
+  - Hadrian: 117-138, Pantheon
+  - Antonius Pius: 138-161,
+  - Marcus Aurelius:  161-180, Column
 
 
+## Antonius Pius
 
+Characteristic of the Antonine period, and indeed of Antonius himself, a capable and non-flashy improver rather than radical innovator, is the Sarcophagus of Via Amendola, which is a proficient collage of previous style.
 
+## Marcus Aurelius
 
+Marcus has to contend with the plague in 161 and his reign is the last of the "good emperors." Rome never really recovers from the crisis that ensues. His column is perhaps the most mnemonic architecture feature of the time. 
 
+https://en.wikipedia.org/wiki/Column_of_Marcus_Aurelius#/media/File:Column.of.marcus.aurelius.complete.arp.jpg
 
+# Severan Dinasty: Decline and Crisis
+
+After Commodus (succesor of Marcus) dies the Praetorian guard puts the title of emperor literally on sale. Rapid succesion and chaos ensues. It is a period of unrest and the famous 193, year of five emperors (Pertinax,Didius,Julianus,Pescennius Niger, Clodus Albinus and Septimus Severus). Septimus Severus is the last man standing.
+
+## Septimus Severus and Caracalla
+
+Septimus reigns from 193-211, he was not a Roman but a Lybian, and interested in syrian mysticism.
+
+Ruthless Caracalla brutally kills his brother Geta and erases his name from monuments (it is interesting to see caracalla's bust looks the part). Caracalla reigns from 211-217. The public baths on the south, an important social feature, bear his name.
+
+https://en.wikipedia.org/wiki/Baths_of_Caracalla#/media/File:Rom_Caracalla-Thermen_von_S%C3%BCden.JPG
+ 
+## 3C Crisis
+
+After Caracalla emperors come and go in rapid succesion. Caracalla is killed and is succeeded by Macrinus. Macrinus in turn is victim of a plot by his aunt Julia which results in the ascencion of 14 year old Elagabulus.
+
+Elagabulus instates a sol invictus cult (syrian divinity), replacing the head of jupiter for his liking and ends up assasinated in 222 and succeeded by the last of the Severans, Alexander Severus who rules from 222-235.
+
+### Interim: Summary of Severans
+
+ - Septimus Severus: 193-198
+ - w/ Caracalla: 198-209
+ - w/ Caracalla and Geta: 209-211
+ - Caracalla and Geta: 211-211
+ - Caracalla: 211-217
+ - Macrinuss: 217-218
+ - Elegabalus: 218-222
+ - Alexander Severus: 222-235
+
+What can be said about the architecture and art in this period is basically that it was a more crass, diluted version of their predecessors, the syrian influence also palpable.
+
+3C Sculpture features a sort of Neo-verism as shown in the bust of caracalla. 
+
+# End of Rapid Succesion and Diocletian Rule
+
+With the ascencion of Diocletian (286-305), a period of relative peace and stability ensues. He attempts at setting the foundations of a stable line of succesion by the introduction of the tetrarchy, where two older emperors, two Augusti would train simultaneously their successors, two Caesari. Diocleatian prepares Galerius, Maximian prepares Constantus.
+
+By the time of Maximinus and Constantine ultra realistic representation in sculpture breaks down into simplified form e.g. shadow of beard but crassly divided forehead. By 290 CE dematerialization takes a strong hold and concept triumphs over likeness.
+
+Perhaps not surprisingly the scheme doesn't quite work. Galerius does relatively well but upon the retirement of Diocletian in 305 and the death of maximian, struggle ensues.
+
+Maxentius, son of maximian declares himself emperor. Constantine, son of Constantus also declares himself emperor.
+
+The matter is settled in the famous Milvian Bridge in 312, with the rise of the first Christian Emperor.
+
+# Rise of Christianity
+
+With the movement of the capital to Constantinople (modern day Istanbul, previous to Constantine Byzantium) in 330 the focus shifts and less development in Rome occurs. The most characteristic is perhaps the Arch of Constantine, situated between the colliseum and the palatine hill, build in 315 AD, which celebrates the victory of Maxentius.
+
+After this Rome suffers greatly because of Malaria epidemics which decimate the population. By hte end of the 6C population would fall from 1M to about 100K people.
+
+# Fall of Rome
+
+The date of the fall of rome is officialy cited as 476 when Odoacer deposed the emperor Romulus. The last major addition to the architecture ofthe western empire was the monument of Phocas around 608.
 
